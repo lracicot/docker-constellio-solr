@@ -21,7 +21,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 # Included third party licenses
 
 ##Constellio (https://github.com/doculibre/constellio/blob/master/LICENSE.txt)
-------------------------------------------------------------------------------
 
 This package includes part of the [Constellio](https://constellio.com/) software.
 
